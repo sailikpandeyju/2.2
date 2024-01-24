@@ -1,0 +1,14 @@
+{
+    "fullname": "Alessandra",
+    "age": 41,
+    "phone-numbers": ["+447421234567", "+447423456789"],
+    "residence": {
+        "address": {
+            "first-line": "Alexandra Rd",
+            "second-line": ""
+        },
+        "zip": "N8 0PP",
+        "city": "London",
+        "country": "UK"
+    }
+}
